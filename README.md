@@ -80,3 +80,5 @@ MATCH p=()-->() RETURN p LIMIT 100
 ## contact me
 
 by email gaoyuanliang@outlook.com
+
+I am open for internshipe/partime job of data science/AI 
