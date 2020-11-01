@@ -35,6 +35,10 @@ MATCH p=()-->() RETURN p LIMIT 100
 }
 
 {
+  "text": "I am from Shanghai of China, and study at the Heriot-Watt University. I love shopping at Taobao of Alibaba."
+}
+
+{
 	"document_path":[
 	"/jessica_text.txt",
 	"/jessica_voice.mp3",
