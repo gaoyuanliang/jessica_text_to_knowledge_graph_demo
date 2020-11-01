@@ -28,6 +28,10 @@ input examples
 }
 
 {
+	"text": "I want to work for Apple. Steve Jobs is my idol. "
+}
+
+{
 	"document_path":[
 	"/jessica_text.txt",
 	"/jessica_voice.mp3",
