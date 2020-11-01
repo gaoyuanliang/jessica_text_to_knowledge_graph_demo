@@ -2,6 +2,8 @@
 
 The demo cases of the Jessica's Engine of Text to Knowledge Graph
 
+## starting the service
+
 ```bash
 docker run -it \
 -v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
@@ -12,6 +14,7 @@ docker run -it \
 jessica_text_to_knowledge_graph:1.0.1
 ```
 
+## the interface
 
 input your data at rest api: http://0.0.0.0:9000/
 
@@ -21,7 +24,7 @@ view your output at neo4j: http://0.0.0.0:7474/ with a Cypher code
 MATCH p=()-->() RETURN p LIMIT 100
 ```
 
-input examples
+## input examples
 ```
 {
 	"text": "I live in Abu Dhabi but study in Dubai."
@@ -45,6 +48,8 @@ input examples
 	"/Users/liangyu/Downloads/jessica_dubai_photo.jpg"]
 }
 ```
+
+## outputs 
 <table>
   <thead>
     <tr>
@@ -69,6 +74,8 @@ input examples
     </td>
   </tr>
 </table>
+
+## what is inside the engine
 
 <img src="WX20201101-104653@2x.png" height="400">
 
