@@ -1,2 +1,43 @@
 # jessica_text_to_knowledge_graph_demo
+
 The demo cases of the Jessica's Engine of Text to Knowledge Graph
+
+```bash
+docker run -it \
+-v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
+-p 7474:7474 \
+-p 7687:7687 \
+-p 9000:9000 \
+-p 8080:8080 \
+jessica_text_to_knowledge_graph:1.0.1
+```
+
+
+input your data at rest api: http://0.0.0.0:9000/
+
+view your output at neo4j: http://0.0.0.0:7474/ with a Cypher code
+
+```
+MATCH p=()-->() RETURN p LIMIT 100
+```
+
+input examples
+```
+{
+	"text": "I live in Abu Dhabi but study in Dubai."
+}
+
+{
+	"document_path":[
+	"/jessica_text.txt",
+	"/jessica_voice.mp3",
+	"/jessica_dubai_photo.jpg"]
+}
+
+{
+	"document_path":[
+	"/Users/liangyu/Downloads/jessica_text.txt",
+	"/Users/liangyu/Downloads/jessica_voice.mp3",
+	"/Users/liangyu/Downloads/jessica_dubai_photo.jpg"]
+}
+```
