@@ -41,11 +41,35 @@ input examples
 	"/Users/liangyu/Downloads/jessica_dubai_photo.jpg"]
 }
 ```
-
-
-<img src="WX20201101-102711@2x.png" height="400">
+<table>
+  <thead>
+    <tr>
+      <th>Input</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>      
+      <img src="WX20201101-102711@2x.png" height="400">
+    </td>
+    <td>
 <img src="WX20201101-102731@2x.png" height="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/gaoyuanliang/bank_card_detection/blob/master/non_bank_card.jpeg" width="400">
+    </td>
+    <td>
+      <pre>
+{
+  'tag': 'non_bank_card', 
+  'score': 0.99998796
+}
+</pre>
+    </td>
+  </tr>
+</table>
 
-<img src="WX20201101-102800@2x.png" height="400">
-<img src="WX20201101-102829@2x.png" height="400">
+
 
