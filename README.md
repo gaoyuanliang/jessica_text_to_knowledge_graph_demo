@@ -79,6 +79,10 @@ MATCH p=()-->() RETURN p LIMIT 100
 
 ## contact me
 
-by email gaoyuanliang@outlook.com
+by email gaoyuanliang@outlook.com if you want to know more about my engin, or schedule a live demo by me.
 
-I am open for internshipe/partime job of data science/AI 
+I am open for internshipe/partime job of data science/AI. Next year I will graduate from Heriot-Watt University Dubai, open for full-time job. 
+
+## Thanks given to 
+
+Heriot-Watt Semantic Web Lab, the leading reasearchers of knowledge management and semantic network. 
