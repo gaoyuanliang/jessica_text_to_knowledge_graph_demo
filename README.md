@@ -92,3 +92,6 @@ Heriot-Watt Semantic Web Lab, http://www.macs.hw.ac.uk/SWeL/, the leading reasea
 This engine is heavely based on the RDF knowledge graph database and its SPARQL query language. Links to RDF and SPARQL from 
 Heriot-Watt Semantic Web Lab: http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/
 
+<img src="WX20201101-151348@2x.png" height="100">
+
+<img src="WX20201101-151322@2x.png" height="100">
