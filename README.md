@@ -14,7 +14,7 @@ jessica_text_to_knowledge_graph:1.0.1
 
 ## the interface
 
-input your data at rest api: http://0.0.0.0:9000/
+input your data at rest API: http://0.0.0.0:9000/
 
 view your output at neo4j: http://0.0.0.0:7474/ with a Cypher code
 
@@ -81,15 +81,15 @@ MATCH p=()-->() RETURN p LIMIT 100
 
 by email gaoyuanliang@outlook.com if you want to know more about my engine, or schedule a live demo by me.
 
-I am open for internshipe/partime job of data science/AI. Next year I will graduate from Heriot-Watt University Dubai, open for full-time job. 
+I am open to an internship/part-time job in data science/AI. Next year I will graduate from Heriot-Watt University Dubai, open for a full-time job. 
 
 ## Thanks given to 
 
-Heriot-Watt Semantic Web Lab, http://www.macs.hw.ac.uk/SWeL/, the leading reasearchers of knowledge management and semantic network
+Heriot-Watt Semantic Web Lab, http://www.macs.hw.ac.uk/SWeL/, the leading research group of knowledge management and semantic network
 
 <img src="WX20201101-112449@2x.png" height="100"> <img src="1200px-Heriot-Watt_University_logo.svg.png" height="50">
 
-This engine is heavely based on the RDF knowledge graph database and its SPARQL query language. Links to RDF and SPARQL from 
+This engine is heavily based on the RDF knowledge graph database and its SPARQL query language. Links to RDF and SPARQL from 
 Heriot-Watt Semantic Web Lab: http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/
 
 ### RDF
@@ -97,4 +97,3 @@ Heriot-Watt Semantic Web Lab: http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-fo
 
 ###  SPARQL 
 <img src="WX20201101-151348@2x.png" height="100">
-
