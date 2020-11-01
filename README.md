@@ -86,3 +86,7 @@ I am open for internshipe/partime job of data science/AI. Next year I will gradu
 ## Thanks given to 
 
 Heriot-Watt Semantic Web Lab, http://www.macs.hw.ac.uk/SWeL/, the leading reasearchers of knowledge management and semantic network
+
+<img src="WX20201101-112449@2x.png" height="300"> <img src="1200px-Heriot-Watt_University_logo.svg.png" height="300">
+
+
