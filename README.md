@@ -1,4 +1,4 @@
-# Jessica's Engine of Text to Knowledge Graph
+# Jessica's Text to Knowledge Graph Engine
 
 ## starting the service
 
@@ -79,7 +79,7 @@ MATCH p=()-->() RETURN p LIMIT 100
 
 ## contact me
 
-by email gaoyuanliang@outlook.com if you want to know more about my engin, or schedule a live demo by me.
+by email gaoyuanliang@outlook.com if you want to know more about my engine, or schedule a live demo by me.
 
 I am open for internshipe/partime job of data science/AI. Next year I will graduate from Heriot-Watt University Dubai, open for full-time job. 
 
@@ -87,6 +87,4 @@ I am open for internshipe/partime job of data science/AI. Next year I will gradu
 
 Heriot-Watt Semantic Web Lab, http://www.macs.hw.ac.uk/SWeL/, the leading reasearchers of knowledge management and semantic network
 
-<img src="WX20201101-112449@2x.png" height="100"> <img src="1200px-Heriot-Watt_University_logo.svg.png" height="80">
-
-
+<img src="WX20201101-112449@2x.png" height="100"> <img src="1200px-Heriot-Watt_University_logo.svg.png" height="50">
