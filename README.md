@@ -49,6 +49,7 @@ MATCH p=()-->() RETURN p LIMIT 100
 	"document_path":[
 	"/Users/liangyu/Downloads/jessica_text.txt",
 	"/Users/liangyu/Downloads/jessica_voice.mp3",
+	"/Users/liangyu/Downloads/jessica_etisalat.jpeg",	
 	"/Users/liangyu/Downloads/jessica_dubai_photo.jpg"]
 }
 ```
