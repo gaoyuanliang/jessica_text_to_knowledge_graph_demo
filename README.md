@@ -31,7 +31,7 @@ MATCH p=()-->() RETURN p LIMIT 100
 }
 
 {
-	"text": "I want to work for Apple. Steve Jobs is my idol. "
+	"text": "I want to work for Apple. Steve Jobs is my idol. I want to work in California. "
 }
 
 {
