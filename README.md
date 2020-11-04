@@ -5,13 +5,15 @@ Extracting texts from MP3 audio, JPG images, and text documents. Converting text
 ## starting the service
 
 ```bash
+docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.2
+
 docker run -it \
 -v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
 -p 7474:7474 \
 -p 7687:7687 \
 -p 9000:9000 \
 -p 8080:8080 \
-jessica_text_to_knowledge_graph:1.0.1
+gaoyuanliang/jessica_text_to_knowledge_graph:1.0.2
 ```
 
 ## the interface
