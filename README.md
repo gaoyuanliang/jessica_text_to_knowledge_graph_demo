@@ -40,7 +40,7 @@ directly convert a text to a knowledge graph
 }
 
 {
-  "text": "I am from Shandong of China, and study at the Heriot-Watt University. I love shopping at Taobao of Alibaba."
+	"text": "I am from Shandong of China, and study at the Heriot-Watt University. I love shopping at Taobao of Alibaba."
 }
 ```
 
