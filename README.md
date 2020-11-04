@@ -26,8 +26,10 @@ view your output at neo4j: http://0.0.0.0:7474/ with a Cypher code
 MATCH p=()-->() RETURN p LIMIT 100
 ```
 
-## input examples
-```
+## input examples in JSON format
+
+### Text2KnowledgeGraph
+```python
 {
 	"text": "I live in Abu Dhabi but study in Dubai."
 }
@@ -37,9 +39,12 @@ MATCH p=()-->() RETURN p LIMIT 100
 }
 
 {
-  "text": "I am from Shanghai of China, and study at the Heriot-Watt University. I love shopping at Taobao of Alibaba."
+  "text": "I am from Shandong of China, and study at the Heriot-Watt University. I love shopping at Taobao of Alibaba."
 }
+```
 
+### Cocktail2KnowledgeGraph
+```python
 {
 	"document_path":[
 	"/jessica_text.txt",
