@@ -2,7 +2,7 @@
 
 Extracting texts from MP3 audio, JPG images, and text documents. Converting text to Knowledge Graph. Linking the text to the DBpedia entities' URL. Not only the directly mentioned entities but also the entities hidden in the DBpedia, but closely related to the content of the text.
 
-<img src="WX20201101-102731@2x.png" height="600">
+<img src="WX20201101-102731@2x.png" height="500">
 
 ## starting the service
 
