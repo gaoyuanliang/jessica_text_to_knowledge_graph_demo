@@ -29,6 +29,7 @@ MATCH p=()-->() RETURN p LIMIT 100
 ## input examples in JSON format
 
 ### Text2KnowledgeGraph
+directly convert a text to a knowledge graph
 ```python
 {
 	"text": "I live in Abu Dhabi but study in Dubai."
@@ -44,6 +45,7 @@ MATCH p=()-->() RETURN p LIMIT 100
 ```
 
 ### Cocktail2KnowledgeGraph
+convert a group of documents to the knowledge graph. The input is a list of document paths
 ```python
 {
 	"document_path":[
