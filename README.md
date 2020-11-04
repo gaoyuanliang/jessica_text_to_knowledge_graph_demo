@@ -51,7 +51,6 @@ convert a group of documents to the knowledge graph. The input is a list of docu
 	"document_path":[
 	"/jessica_text.txt",
 	"/jessica_voice.mp3",
-	"/jessica_etisalat.jpeg",	
 	"/jessica_dubai_photo.jpg"]
 }
 
@@ -59,7 +58,6 @@ convert a group of documents to the knowledge graph. The input is a list of docu
 	"document_path":[
 	"/Users/liangyu/Downloads/jessica_text.txt",
 	"/Users/liangyu/Downloads/jessica_voice.mp3",
-	"/Users/liangyu/Downloads/jessica_etisalat.jpeg",	
 	"/Users/liangyu/Downloads/jessica_dubai_photo.jpg"]
 }
 ```
