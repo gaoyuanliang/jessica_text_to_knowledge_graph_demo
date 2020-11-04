@@ -2,6 +2,14 @@
 
 Extracting texts from MP3 audio, JPG images, and text documents. Converting text to Knowledge Graph. Linking the text to the DBpedia entities' URL. Not only the directly mentioned entities but also the entities hidden in the DBpedia, but closely related to the content of the text.
 
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=t6s_Q0VVgtw" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=t6s_Q0VVgtw"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 ## starting the service
 
 ```bash
