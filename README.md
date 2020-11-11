@@ -4,11 +4,17 @@ Extracting texts from MP3 audio, JPG images, and text documents. Converting text
 
 <img src="Webp.net-gifmaker%20(2).gif" height="400">
 
-## starting the service
+## starting the service in you laptop
+
+The program is in a docker. You can directly pull the docker from the docker hub using the following commend, and run the service in your laptop. But the docker itself is 17.7GB large. Make sure your laptop has storage big enough. 
 
 ```bash
 docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.2
+```
 
+Start the service using the followig commend. This process load many models and knowledge graph data, so it may take a while. For my Mac, it takes around 20 minuts. 
+
+```bash
 docker run -it \
 -v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
 -p 7474:7474 \
