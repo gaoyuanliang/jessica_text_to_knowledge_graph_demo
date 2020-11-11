@@ -107,6 +107,9 @@ I am open to an internship/part-time job in data science/AI. Next year I will gr
 This engine is heavily based on the RDF knowledge graph database and its SPARQL query language. Links to RDF and SPARQL from 
 Heriot-Watt Semantic Web Lab: http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/
 
+<img src="WX20201101-112449%402x.png" height="30">
+
+
 ### RDF
 <img src="WX20201101-151322@2x.png" height="100">
 
