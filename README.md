@@ -9,7 +9,7 @@ Extracting texts from MP3 audio, JPG images, and text documents. Converting text
 The program is in a docker. You can directly pull the docker from the docker hub using the following commend, and run the service in your laptop. But the docker itself is 17.7GB large. Make sure your laptop has storage big enough. 
 
 ```bash
-docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.2
+docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
 ```
 
 Start the service using the followig commend. This process load many models and knowledge graph data, so it may take a while. For my Mac, it takes around 20 minuts. 
@@ -21,7 +21,7 @@ docker run -it \
 -p 7687:7687 \
 -p 9000:9000 \
 -p 8080:8080 \
-gaoyuanliang/jessica_text_to_knowledge_graph:1.0.2
+gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
 ```
 
 ## the interface
