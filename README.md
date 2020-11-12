@@ -1,18 +1,18 @@
 # Jessica's Text to Knowledge Graph Engine
 
-Extracting texts from MP3 audio, JPG images, and text documents. Converting text to Knowledge Graph. Linking the text to the DBpedia entities' URL. Not only the directly mentioned entities but also the entities hidden in the DBpedia, but closely related to the content of the text.
+Extracting texts from MP3 audio, JPG images, and text documents. Converting text to Knowledge Graph. Linking the text to the DBpedia entities' URL. Not only the directly mentioned entities but also the entities hidden in the DBpedia, but closely related to the content of the text. If the text is about yourself and it cannot find anything linked to DBpedia, it can also generate your won knowledge graph, by detecting entities and grouping different forms of the same entities, and also extracting the relations among the entities.
 
 <img src="Webp.net-gifmaker%20(2).gif" height="400">
 
-## starting the service in you laptop
+## starting the service on your laptop
 
-The program is in a docker. You can directly pull the docker from the docker hub using the following commend, and run the service in your laptop. But the docker itself is 10.87 GB large. Make sure your laptop has storage big enough. 
+The program is in a docker. You can directly pull the docker from the docker hub using the following command, and run the service on your laptop. But the docker itself is 10.87 GB large. Make sure your laptop has storage big enough. 
 
 ```bash
 docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
 ```
 
-Start the service using the followig commend. This process load many models and knowledge graph data, so it may take a while. For my Mac, it takes around 20 minuts. 
+Start the service using the following commend. This process loads many models and knowledge graph data, so it may take a while. For my Mac, it takes around 20 minutes. 
 
 ```bash
 docker run -it \
@@ -121,7 +121,7 @@ I am open to an internship/part-time job in data science/AI. Next year I will gr
 ## Thanks given to 
 
 This engine is heavily based on the RDF knowledge graph database and its SPARQL query language. Links to RDF and SPARQL from 
-Heriot-Watt Semantic Web Lab: http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/. The Heriot-Watt Semantic Web is a world-leadning research lab of knowledge management and semantic network. 
+Heriot-Watt Semantic Web Lab: http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/. The Heriot-Watt Semantic Web is a world-leading research lab of knowledge management and semantic network. 
 
 <img src="WX20201101-112449%402x.png" height="100"> <img src="1200px-Heriot-Watt_University_logo.svg.png" height="100">
 
