@@ -80,10 +80,10 @@ convert a group of documents to a DBpedia knowledge graph. The input is a list o
 
 {
 	"document_path":[
-	"/Users/liangyu/Downloads/jessica_text.txt",
-	"/Users/liangyu/Downloads/jessica_voice.mp3",
-	"/Users/liangyu/Downloads/jessica_etisalat.jpeg",	
-	"/Users/liangyu/Downloads/jessica_dubai_photo.jpg"]
+	"/Downloads/jessica_text.txt",
+	"/Downloads/jessica_voice.mp3",
+	"/Downloads/jessica_etisalat.jpeg",	
+	"/Downloads/jessica_dubai_photo.jpg"]
 }
 ```
 
