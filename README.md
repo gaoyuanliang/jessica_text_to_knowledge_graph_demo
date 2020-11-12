@@ -38,7 +38,7 @@ MATCH p=()-->() RETURN p LIMIT 100
 
 ### Text2Own_KG
 
-convert a text to your own knowledge graph 
+Convert your won story to your won knowledge graph, even you are not famous enough to be linked to DBpedia/Wikipedia.
 
 ```python
 {
