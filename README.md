@@ -16,11 +16,12 @@ Start the service using the following command. This process loads many models an
 
 ```bash
 docker run -it \
--v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
+-m 10g \
 -p 7474:7474 \
 -p 7687:7687 \
 -p 9000:9000 \
 -p 8080:8080 \
+-v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
 gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
 ```
 
