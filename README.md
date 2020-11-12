@@ -6,7 +6,7 @@ Extracting texts from MP3 audio, JPG images, and text documents. Converting text
 
 ## starting the service in you laptop
 
-The program is in a docker. You can directly pull the docker from the docker hub using the following commend, and run the service in your laptop. But the docker itself is 17.7GB large. Make sure your laptop has storage big enough. 
+The program is in a docker. You can directly pull the docker from the docker hub using the following commend, and run the service in your laptop. But the docker itself is 10.87 GB large. Make sure your laptop has storage big enough. 
 
 ```bash
 docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
