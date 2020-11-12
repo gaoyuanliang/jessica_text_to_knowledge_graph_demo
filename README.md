@@ -4,6 +4,8 @@ Extracting texts from MP3 audio, JPG images, and text documents. Converting text
 
 <img src="Webp.net-gifmaker%20(2).gif" height="400">
 
+Heriot-Watt Semantic Web Lab, http://www.macs.hw.ac.uk/SWeL/, the leading research group of knowledge management and semantic network
+
 ## starting the service in you laptop
 
 The program is in a docker. You can directly pull the docker from the docker hub using the following commend, and run the service in your laptop. But the docker itself is 17.7GB large. Make sure your laptop has storage big enough. 
