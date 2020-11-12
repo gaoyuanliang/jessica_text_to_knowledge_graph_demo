@@ -106,6 +106,14 @@ convert a group of documents to a DBpedia knowledge graph. The input is a list o
 <img src="WX20201101-102829@2x.png" height="280">
     </td>
   </tr>
+  <tr>
+    <td>  
+<img src="WX20201112-194027@2x.png" height="280">
+    </td>
+    <td>
+<img src="WX20201112-194015@2x.png" height="280">
+    </td>
+  </tr>
 </table>
 
 ## what is inside the engine
