@@ -48,7 +48,7 @@ convert a text to your own knowledge graph
 }
 ```
 
-### Text2KnowledgeGraph
+### Text2DBPedia_KG
 directly convert a text to a knowledge graph linked to DBpedia
 ```python
 {
@@ -64,7 +64,7 @@ directly convert a text to a knowledge graph linked to DBpedia
 }
 ```
 
-### Cocktail2KnowledgeGraph
+### Cocktail2DBPedia_KG
 convert a group of documents to the knowledge graph. The input is a list of document paths
 ```python
 {
