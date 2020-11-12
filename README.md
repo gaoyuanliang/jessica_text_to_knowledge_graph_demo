@@ -36,8 +36,18 @@ MATCH p=()-->() RETURN p LIMIT 100
 
 ## input examples in JSON format
 
+### Text2Own_KG
+
+convert a text to your own knowledge graph 
+
+```python
+{
+	"text": "Jessica Liang works for Group 42 Inc. She was born in China and educated at Jiangsu University of Science and Technology. Jessica is a 23 years old Chinese girl."
+}
+```
+
 ### Text2KnowledgeGraph
-directly convert a text to a knowledge graph
+directly convert a text to a knowledge graph linked to DBpedia
 ```python
 {
 	"text": "I live in Abu Dhabi but study in Dubai."
