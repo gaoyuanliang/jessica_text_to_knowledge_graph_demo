@@ -108,7 +108,7 @@ convert a group of documents to a DBpedia knowledge graph. The input is a list o
   </tr>
   <tr>
     <td>  
-<img src="WX20201112-194027@2x.png" height="280">
+<img src="WX20201112-195030@2x.png" height="280">
     </td>
     <td>
 <img src="WX20201112-194015@2x.png" height="280">
