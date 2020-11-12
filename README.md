@@ -16,7 +16,7 @@ Start the service using the following command. This process loads many models an
 
 ```bash
 docker run -it \
--m 10g \
+-m 8g \
 -p 7474:7474 \
 -p 7687:7687 \
 -p 9000:9000 \
