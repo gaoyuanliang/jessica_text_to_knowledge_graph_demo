@@ -47,7 +47,7 @@ convert a text to your own knowledge graph
 ```
 
 ### Text2DBPedia_KG
-directly convert a text to a knowledge graph linked to DBpedia
+convert a text to a DBpedia knowledge graph
 ```python
 {
 	"text": "I live in Abu Dhabi but study in Dubai."
@@ -63,7 +63,7 @@ directly convert a text to a knowledge graph linked to DBpedia
 ```
 
 ### Cocktail2DBPedia_KG
-convert a group of documents to the knowledge graph. The input is a list of document paths
+convert a group of documents to a DBpedia knowledge graph. The input is a list of document paths
 ```python
 {
 	"document_path":[
