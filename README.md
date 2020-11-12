@@ -44,6 +44,10 @@ convert a text to your own knowledge graph
 {
 	"text": "Jessica Liang works for Yangzhou Mongo Tech LLC. She was born in China and educated at Jiangsu University of Science and Technology. Jessica is a 23 years old Chinese girl."
 }
+
+{
+	"text": "Mongo Tech LLC is located at Yangzhou of China, and it is found by Sen Zhou."
+}
 ```
 
 ### Text2DBPedia_KG
