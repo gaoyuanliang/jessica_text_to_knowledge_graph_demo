@@ -12,7 +12,7 @@ The program is in a docker. You can directly pull the docker from the docker hub
 docker pull gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
 ```
 
-Start the service using the following commend. This process loads many models and knowledge graph data, so it may take a while. For my Mac, it takes around 23 minutes. 
+Start the service using the following command. This process loads many models and knowledge graph data, so it may take a while. For my Mac, it takes around half-hour. 
 
 ```bash
 docker run -it \
