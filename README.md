@@ -21,7 +21,7 @@ docker run -it \
 -p 7687:7687 \
 -p 9000:9000 \
 -p 8080:8080 \
--v /Users/liangyu/Downloads/:/Users/liangyu/Downloads/ \
+-v /Users/liangyu/Downloads/:/Downloads/ \
 gaoyuanliang/jessica_text_to_knowledge_graph:1.0.3
 ```
 
