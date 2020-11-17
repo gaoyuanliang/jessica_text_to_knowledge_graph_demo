@@ -1,6 +1,8 @@
 # Jessica's Text to Knowledge Graph Engine
 
-Extracting texts from MP3 audio, JPG images, and text documents. Converting text to Knowledge Graph. Linking the text to the DBpedia entities' URL. Not only the directly mentioned entities but also the entities hidden in the DBpedia, but closely related to the content of the text. If the text is about yourself and it cannot find anything linked to DBpedia, it can also generate your won knowledge graph, by detecting entities and grouping different forms of the same entities, and also extracting the relations among the entities.
+Extracting texts from MP3 audio, JPG images, and text documents. Converting text to Knowledge Graph. Linking the text to the DBpedia entities' URL. Not only the directly mentioned entities but also the entities hidden in the DBpedia, but closely related to the content of the text. 
+
+If the text is about yourself and it cannot find anything linked to DBpedia, it can also generate your won knowledge graph, by detecting entities and grouping different forms of the same entities, and also extracting the relations among the entities.
 
 <img src="Webp.net-gifmaker%20(2).gif" height="400">
 
