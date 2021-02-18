@@ -135,4 +135,4 @@ convert a group of documents to a DBpedia knowledge graph. The input is a list o
 
 by email gaoyuanliang@outlook.com if you want to know more about my engine, or schedule a live demo by me.
 
-I am open to an internship/part-time job in data science/AI. Next year I will graduate from Heriot-Watt University Dubai, open for a full-time job. 
+I am open to an internship/part-time job in data science/AI. This year I will graduate from Heriot-Watt University Dubai, open for a full-time job. 
